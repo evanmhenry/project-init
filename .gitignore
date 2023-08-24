@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# system related files
+.DS_Store
+
+# IDE/editor configurations
+.vscode/
